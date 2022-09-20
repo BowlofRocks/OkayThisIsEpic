@@ -1,0 +1,15 @@
+C:\CSE 210\OkayThisIsEpic\bin\Debug\net6.0\OkayThisIsEpic.exe
+C:\CSE 210\OkayThisIsEpic\bin\Debug\net6.0\OkayThisIsEpic.deps.json
+C:\CSE 210\OkayThisIsEpic\bin\Debug\net6.0\OkayThisIsEpic.runtimeconfig.json
+C:\CSE 210\OkayThisIsEpic\bin\Debug\net6.0\OkayThisIsEpic.dll
+C:\CSE 210\OkayThisIsEpic\bin\Debug\net6.0\OkayThisIsEpic.pdb
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.csproj.AssemblyReference.cache
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.AssemblyInfoInputs.cache
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.AssemblyInfo.cs
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.csproj.CoreCompileInputs.cache
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.dll
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\refint\OkayThisIsEpic.dll
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.pdb
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\OkayThisIsEpic.genruntimeconfig.cache
+C:\CSE 210\OkayThisIsEpic\obj\Debug\net6.0\ref\OkayThisIsEpic.dll
