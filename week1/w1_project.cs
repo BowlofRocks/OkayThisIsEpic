@@ -1,5 +1,4 @@
-﻿using System;
-
+using System
 
 namespace Test
 {
@@ -7,9 +6,7 @@ namespace Test
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
         }
-
     }
-    
-} 
+}
