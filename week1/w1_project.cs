@@ -1,5 +1,5 @@
 using System;
-
+using System.Threading;
 
 namespace TicTakToe
 {
@@ -19,20 +19,20 @@ namespace TicTakToe
                 Console.WriteLine("Player1:X and Player2:O \n");
                 if (player_turn % 2 == 0)
                 {
-                Console.WriteLine("Player 2 Turn");
+                Console.Write("Player 2 Turn: ");
                 }
                 else
                 {
-                Console.WriteLine("Player 1 Turn");
+                Console.Write("Player 1 Turn: ");
                 }
                 Console.WriteLine("\n");
                 Board();
-                choice = int.Parse(Console.Readline());
+                choice = int.Parse(Console.ReadLine());
 
                 if (arr[choice] != 'X' && arr[choice] != 'O')
                 {
                     
-                    if (player_turn % 2 = 0)
+                    if (player_turn % 2 == 0)
                     {
                         arr[choice] = 'O';
                         player_turn++;

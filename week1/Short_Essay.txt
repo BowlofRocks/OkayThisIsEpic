@@ -1,0 +1,4 @@
+I used the Version Control System to not only update my work but to also look at the progress that I have made with my work. 
+For example, I am when my partner and I were temporarily working on this project together we put our progress and work in the repository named, okaythisisepic on github 
+so that both of us could take a look at what each of us has done in contributing to the code that we have made. I also used VSC to put this essay into git
+so that you could also look at it as well! 
