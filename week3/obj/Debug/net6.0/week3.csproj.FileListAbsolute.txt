@@ -1,0 +1,15 @@
+C:\CSE 210\OkayThisIsEpic\week3\bin\Debug\net6.0\week3.exe
+C:\CSE 210\OkayThisIsEpic\week3\bin\Debug\net6.0\week3.deps.json
+C:\CSE 210\OkayThisIsEpic\week3\bin\Debug\net6.0\week3.runtimeconfig.json
+C:\CSE 210\OkayThisIsEpic\week3\bin\Debug\net6.0\week3.dll
+C:\CSE 210\OkayThisIsEpic\week3\bin\Debug\net6.0\week3.pdb
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.csproj.AssemblyReference.cache
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.AssemblyInfoInputs.cache
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.AssemblyInfo.cs
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.csproj.CoreCompileInputs.cache
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.dll
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\refint\week3.dll
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.pdb
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\week3.genruntimeconfig.cache
+C:\CSE 210\OkayThisIsEpic\week3\obj\Debug\net6.0\ref\week3.dll

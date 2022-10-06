@@ -9,6 +9,8 @@ namespace TicTakToe
             static int player_turn = 1;
             static int choice;
             static int winner = 0;
+
+            
         public static void Main(string[] args)
         {
             do
